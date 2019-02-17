@@ -1,0 +1,24 @@
+Comandos utilizados:
+
+-compilar: javac -d ./classes ./src/es/unileon/prg1/ticTacToe/*.java
+
+-general la documentacion: javadoc -d ./doc -author -version -private -linksource ./src/es/unileon/prg1/ticTacToe/*.java
+
+-ejecutar la aplicacion: java -classpath ./classes es.unileon.prg1.ticTacToe.MainTicTacToe
+
+-crear un directorio: mkdir nombredirectorio
+
+-copiar imagenes: cp imagen /home/ricardo/Desktop/PRG1/ticTacToe/etc/images
+
+-crear un archivo text: nano
+
+-descomprimir: unzip ticTacToe.zip
+
+
+comprimir: zip ticTacToe.zip
+
+otros comandos: ls
+                pwd
+                tree
+                cd 
+                
